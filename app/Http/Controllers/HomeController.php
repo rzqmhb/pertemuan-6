@@ -26,6 +26,7 @@ class HomeController extends Controller
     {
         //praktikum 3
         $user = Auth::user();
-        return view('home', ['user' => $user]);
+        //praktikum 4
+        return view('index', ['user' => $user]);
     }
 }
