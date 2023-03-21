@@ -1512,4 +1512,6 @@
 <!-- AdminLTE for demo purposes -->
 <script src="dist/js/demo.js"></script>
 <!-- AdminLTE dashboard demo (This is only for demo purposes) -->
-<script src="dist/js/pages/dashboard.js"><
+<script src="dist/js/pages/dashboard.js"></script>
+</body>
+</html>
