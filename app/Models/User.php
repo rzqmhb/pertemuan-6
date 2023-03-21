@@ -17,7 +17,10 @@ class User extends Authenticatable
      *
      * @var array<int, string>
      */
+
+    //praktikum 3
     protected $fillable = [
+        'username',
         'name',
         'email',
         'password',

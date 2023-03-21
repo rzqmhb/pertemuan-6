@@ -22,6 +22,6 @@ class DatabaseSeeder extends Seeder
         // ]);
 
         //praktikum 2
-        $this->call(UserSeeder::class);
+        //$this->call(UserSeeder::class);
     }
 }
